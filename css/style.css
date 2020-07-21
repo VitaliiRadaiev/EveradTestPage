@@ -1389,10 +1389,6 @@ textarea.input {
   color: #000;
 }
 
-.form-header {
-  width: 271px;
-}
-
 .photoSet-header {
   position: absolute;
   top: 0;
@@ -1527,6 +1523,7 @@ textarea.input {
   position: relative;
   text-align: center;
   background: #fff;
+  width: 271px;
 }
 
 .form-header::after {
@@ -1783,6 +1780,7 @@ textarea.input {
 
 .price-form__old img {
   margin-left: 7px;
+  margin: 4px;
 }
 
 .price-form__old::before, .price-form__old::after {
